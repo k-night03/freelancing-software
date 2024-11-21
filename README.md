@@ -38,3 +38,4 @@ This full-stack MERN freelance job marketplace application revolutionizes the wa
 - Setup mongodb database and add url to `.env` file configuration
 - Run both the applications simultaneously: client `npm run dev` and server `npm run dev`
 - View the application on the browser using `http://localhost:5173`
+# freelancing-software
